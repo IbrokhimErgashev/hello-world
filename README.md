@@ -1,3 +1,4 @@
 # hello-world
 StartingGit
-starting new//
+starting new// finding commits
+
