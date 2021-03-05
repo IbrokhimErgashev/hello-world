@@ -1,4 +1,10 @@
 # hello-world
 StartingGit
-starting new// finding commits
+readme-edit
+starting new//
 
+
+comparing two files each other
+
+starting new// finding commits
+main
